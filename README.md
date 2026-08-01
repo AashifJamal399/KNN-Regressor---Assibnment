@@ -24,3 +24,7 @@ This project implements the K-Nearest Neighbors (KNN) Regressor algorithm using 
 - Implement KNN Regressor Assignment.ipynb
 - tested.csv
 - README.md
+------------
+
+## Author 
+**Aashif Jamal**
